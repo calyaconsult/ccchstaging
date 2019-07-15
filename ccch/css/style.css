@@ -271,6 +271,7 @@ span.icon-bar{
 
 @media screen and (max-width:767px){
 	body, .site-container{font-size:110%;}
+	.site-container{width:95%;}
 	ul.nav-menu{
 		position:absolute;
 		top:50px;
