@@ -1,0 +1,24 @@
+Digitaler Checkup
+
+Vorbereitung:
+- Wichtigstes Ziel formulieren:
+  z.B.: Ich möchte mehr Terminanfragen bekommen
+        Ich möchte weniger Anrufe bekommen, bei denen die Leute nach Dingen fragen, die ich schon online publiziert habe
+		Ich möchte mehr Seitenaufrufe erhalten
+		Ich möchte mehr Umsatz in meinem Online-Shop machen
+		Ich möchte möglichst weit vorne in den Google-Suchergebnissen zu finden sein
+		
+- Liste mit wichtigen Suchbegriffen erstellen (welche Begriffe verwenden meine potenziellen Kunden, um das zu finden, was sie suchen?)
+
+Check-Up
+- Einfacher SEO-Audit (überprüfen, ob es gravierende Probleme mit der Google Suchmaschine gibt)
+- Überprüfung von Impressum und Datenschutzerklärung
+- Überprüfung des Analytics Tracking (Google Analytics)
+- Potenzial- und Aufwandsabschätzung von möglichen Social-Media-Aktivitäten
+
+Ergebnis
+- Vorschlag mit drei Massnahmen, die sofort umgesetzt werden sollten
+- Liste mit Massnahmen, die später umgesetzt werden können
+- Sofern nicht vorhanden: Einrichtung eines Google Analytics Kontos und Aufsetzen eines einfachen Reports
+
+
